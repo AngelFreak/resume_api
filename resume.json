@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "Teis Angel Clausen",
+    "label": "DevOps engineer / Sysadmin",
+    "image": "",
+    "email": "teisangel@tsrv.pw",
+    "phone": "+45 26 37 27 62",
+    "url": "https://tsrv.pw",
+    "summary": "Linux / UNIX Enthusiast. IT octopus. Runner. I'm a passionate and solution oriented DevOps'er / Sysadm based in Koege, Denmark. I'm optimistic and solution driven. I want to solve problems, and deliver the most value to the users. I'm building positive team environments and greatly enjoy working with others. I enjoy continuous learning and exploring new technologies. When I'm not doing IT stuff at home or work, I enjoy time with my family and running.",
+    "location": {
+      "address": "Steinmannsvej 10",
+      "postalCode": "4600",
+      "city": "Koege",
+      "countryCode": "DK",
+      "region": "Sjaelland"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "john",
+      "url": "https://twitter.com/Teis_Angel"
+    }]
+  },
+  "work": [{
+    "name": "Danish army of defence",
+    "position": "IT-Specialist",
+    "url": "https://fmn.dk//",
+    "startDate": "2020-01-04",
+    "endDate": "N/a",
+    "summary": "",
+    "highlights": []
+  }],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "University",
+    "url": "https://institution.com/",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [{
+    "name": "Project",
+    "description": "Description…",
+    "highlights": [
+      "Won award at AIHacks 2016"
+    ],
+    "keywords": [
+      "HTML"
+    ],
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "url": "https://project.com/",
+    "roles": [
+      "Team Lead"
+    ],
+    "entity": "Entity",
+    "type": "application"
+  }]
+}
