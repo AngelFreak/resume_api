@@ -197,7 +197,7 @@ func getResume() *Resume {
 			},
 			{
 				Language: "English",
-				Fluency:  "Professional",
+				Fluency:  "Professional work",
 			},
 		},
 		Interests: []Interests{
