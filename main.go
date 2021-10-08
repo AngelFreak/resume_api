@@ -191,7 +191,12 @@ func getResume() *Resume {
 				Fluency:  "Professional",
 			},
 		},
-		Interests:  []Interests{},
+		Interests: []Interests{
+			{
+				Name:     "Running",
+				Keywords: []string{""},
+			},
+		},
 		References: []References{},
 		Projects:   []Projects{},
 	}
