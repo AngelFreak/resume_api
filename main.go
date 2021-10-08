@@ -181,10 +181,24 @@ func getResume() *Resume {
 		Awards:       []Awards{},
 		Publications: []Publications{},
 		Skills:       []Skills{},
-		Languages:    []Languages{},
-		Interests:    []Interests{},
-		References:   []References{},
-		Projects:     []Projects{},
+		Languages: []Languages{
+			{
+				Language: "Danish",
+				Fluency:  "Native",
+			},
+			{
+				Language: "English",
+				Fluency:  "Professional",
+			},
+		},
+		Interests: []Interests{
+			{
+				Name:     "Running",
+				Keywords: []string{""},
+			},
+		},
+		References: []References{},
+		Projects:   []Projects{},
 	}
 }
 
