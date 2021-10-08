@@ -166,7 +166,17 @@ func getResume() *Resume {
 				Highlights: []string{""},
 			},
 		},
-		Volunteer:    []Volunteer{},
+		Volunteer: []Volunteer{
+			{
+				Organization: "Danish home guard",
+				Position:     "Sergeant",
+				URL:          "https://www.hjv.dk",
+				StartDate:    "2015-11-01",
+				EndDate:      "N/A",
+				Summary:      "Currently i command a squad of infantry soldiers. In one of the most active parts of The Danish Home Guard.",
+				Highlights:   []string{"Domestic Responce Force, Arctic Respoce Force"},
+			},
+		},
 		Education:    []Education{},
 		Awards:       []Awards{},
 		Publications: []Publications{},
