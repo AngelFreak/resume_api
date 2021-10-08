@@ -198,7 +198,20 @@ func getResume() *Resume {
 			},
 		},
 		References: []References{},
-		Projects:   []Projects{},
+		Projects: []Projects{
+			{
+				Name:        "FMI IT UDB",
+				Description: "The goal of the project is to make a database for lending IT equipment to users internally in The Danish Defence Acquisition and Logistics Organization (DALO)",
+				Highlights:  []string{""},
+				Keywords:    []string{""},
+				StartDate:   "2013-08-01",
+				EndDate:     "2013-10-23",
+				URL:         "N/A",
+				Roles:       []string{"Programmer"},
+				Entity:      "",
+				Type:        "Software",
+			},
+		},
 	}
 }
 
