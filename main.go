@@ -165,6 +165,15 @@ func getResume() *Resume {
 				Summary:    "",
 				Highlights: []string{""},
 			},
+			{
+				Name:       "Jobindex",
+				Position:   "DevOps Engineer",
+				URL:        "https://jobindex.dk//",
+				StartDate:  "2018-01-02",
+				EndDate:    "2020-04-30",
+				Summary:    "I'm part of a two man infrastructure / devops team, who are responsible for our network, virtualization, Unix servers, dev env, level 3 troubleshooting, data centers and much more. We handle both internal, and external systems, like our website, which is the 12'th largest in Denmark. We host most things our self in a couple of datacenters. Most of it is on Unix like systems, and most of it is Open Source, for example: FreeNAS, pfSence, Ubuntu, FreeBSD, and so on.",
+				Highlights: []string{""},
+			},
 		},
 		Volunteer: []Volunteer{
 			{
