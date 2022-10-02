@@ -174,6 +174,15 @@ func getResume() *Resume {
 				Summary:    "I'm part of a two man infrastructure / devops team, who are responsible for our network, virtualization, Unix servers, dev env, level 3 troubleshooting, data centers and much more. We handle both internal, and external systems, like our website, which is the 12'th largest in Denmark. We host most things our self in a couple of datacenters. Most of it is on Unix like systems, and most of it is Open Source, for example: FreeNAS, pfSence, Ubuntu, FreeBSD, and so on.",
 				Highlights: []string{""},
 			},
+			{
+				Name:       "Netcompany",
+				Position:   "Operations Enginner",
+				URL:        "https://netcompany.com//",
+				StartDate:  "2017-02-01",
+				EndDate:    "2018-12-31",
+				Summary:    "I primarily had responsibility for our delivery of Linux servers. We used VMware on Cisco USC blade systems for servers, and deliver both virtual and psychical servers for our developers and customers.",
+				Highlights: []string{""},
+			},
 		},
 		Volunteer: []Volunteer{
 			{
